@@ -1,0 +1,5 @@
+static_hosts
+ad.list
+.swp
+*.log
+dnsmasq.conf
